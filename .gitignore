@@ -1,0 +1,9 @@
+#pastas do workspace
+.metadata/
+.recommenders/
+[Ss]ervers/
+
+#pastas e arquivos do projeto
+.settings/
+*.class
+lib/*.jar
